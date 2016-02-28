@@ -1,0 +1,13 @@
+C:\Users\zavia\documents\visual studio 2013\Projects\List_Of_Goods\List_Of_Goods\bin\Debug\goodsDatabase.mdf
+C:\Users\zavia\documents\visual studio 2013\Projects\List_Of_Goods\List_Of_Goods\bin\Debug\goodsDatabase_log.ldf
+C:\Users\zavia\documents\visual studio 2013\Projects\List_Of_Goods\List_Of_Goods\bin\Debug\List_Of_Goods.exe.config
+C:\Users\zavia\documents\visual studio 2013\Projects\List_Of_Goods\List_Of_Goods\bin\Debug\List_Of_Goods.exe
+C:\Users\zavia\documents\visual studio 2013\Projects\List_Of_Goods\List_Of_Goods\bin\Debug\List_Of_Goods.pdb
+C:\Users\zavia\documents\visual studio 2013\Projects\List_Of_Goods\List_Of_Goods\obj\Debug\List_Of_Goods.AddForm.resources
+C:\Users\zavia\documents\visual studio 2013\Projects\List_Of_Goods\List_Of_Goods\obj\Debug\List_Of_Goods.DeleteForm.resources
+C:\Users\zavia\documents\visual studio 2013\Projects\List_Of_Goods\List_Of_Goods\obj\Debug\List_Of_Goods.indexingForm.resources
+C:\Users\zavia\documents\visual studio 2013\Projects\List_Of_Goods\List_Of_Goods\obj\Debug\List_Of_Goods.Form1.resources
+C:\Users\zavia\documents\visual studio 2013\Projects\List_Of_Goods\List_Of_Goods\obj\Debug\List_Of_Goods.Properties.Resources.resources
+C:\Users\zavia\documents\visual studio 2013\Projects\List_Of_Goods\List_Of_Goods\obj\Debug\List_Of_Goods.csproj.GenerateResource.Cache
+C:\Users\zavia\documents\visual studio 2013\Projects\List_Of_Goods\List_Of_Goods\obj\Debug\List_Of_Goods.exe
+C:\Users\zavia\documents\visual studio 2013\Projects\List_Of_Goods\List_Of_Goods\obj\Debug\List_Of_Goods.pdb
